@@ -5,6 +5,7 @@
 ###Goals
 
 ####Alura Clojure Course
+- Lesson 3
 - Lesson 4
 - Lesson 5
 - Lesson 6
@@ -18,6 +19,8 @@ ___
 ###Done
 
 ####Alura Clojure Course
+- Lesson 3
+- Lesson 4
 
 ####Programming Clojure Book
 
