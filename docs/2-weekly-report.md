@@ -1,7 +1,5 @@
 #Weekly Report
 
-***
-
 ##11/01 ~ 13/01 *
 
 ###Goals
