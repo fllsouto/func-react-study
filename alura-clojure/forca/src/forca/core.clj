@@ -6,14 +6,31 @@
 
 (def total-de-vidas 6)
 
-(defm acertou-a-palavra-toda? [palavra acertos] true)
+(defn letras-faltando [palavra acertos]
+  (remove (fn [letra] (contains? acertos (str letra))) palavra)
+)
 
-(defn jogo [vidas, palavra, acertos]
+(defn acertou-a-palavra-toda? [palavra acertos] 
+  (empty? (letras-faltando palavra acertos))
+)
+
+(defn le-letra! [] (read-line))
+
+(defn acertou? [chute palavra] (.contains palavra chute))
+
+(defn avalia-chute [chute vidas palavra acertos]
+  (if (acertou? chute palavra) 
+    (jogo vidas palavra (conj acertos chute))
+    (jogo (dec vidas) palavra (conj acertos chute))
+  )
+)
+
+(defn jogo [vidas palavra acertos]
   (if (= vidas 0)
       (perdeu)
       (if (acertou-a-palavra-toda? palavra acertos)
         (ganhou)
-        (println "Chuta, amigo!")
+        (avalia-chute (le-letra!) vidas palavra acertos)
       )
   )
 )
@@ -29,7 +46,7 @@
 ;     (+ (fib (- x 1)) (fib (- x 2)))
 ;     x
 ;   )
-)
+; )
 
 
 
