@@ -1,0 +1,135 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Expr.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/ExpressionPaternMatching$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/ExpressionPaternMatching.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Number$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Number.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Sum$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Sum.class
+binary dependencies:
+2 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Expr
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> ExpressionPaternMatching
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> ExpressionPaternMatching$
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Number
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Number$
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Sum
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Sum$
+used names:
+41 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> &&
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> +
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> <init>
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> ==
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> AbstractFunction1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> AbstractFunction2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> AnyRef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Array
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Expr
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> ExpressionPaternMatching
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Int
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> None
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Number
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Predef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Product
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> ScalaRunTime
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Serializable
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Statics
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> String
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Sum
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> Unit
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> _hashCode
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> _toString
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> asInstanceOf
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> e
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> e1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> e2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> eq
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> finalizeHash
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> isInstanceOf
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> l
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> mix
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> n
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> println
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> r
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> runtime
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> scala
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> show
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> toString
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> typedProductIterator
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> ||
+product stamps:
+7 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Expr.class -> lastModified(1462320927000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/ExpressionPaternMatching$.class -> lastModified(1462320927000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/ExpressionPaternMatching.class -> lastModified(1462320927000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Number$.class -> lastModified(1462320927000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Number.class -> lastModified(1462320927000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Sum$.class -> lastModified(1462320927000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/target/scala-2.10/classes/Sum.class -> lastModified(1462320927000)
+source stamps:
+1 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> hash(1953bbbefd2e1078972e65d3bd4b562f059fdcad)
+binary stamps:
+2 items
+/home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> lastModified(1454329517000)
+class names:
+2 items
+/home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.runtime.AbstractFunction1
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDoRIRuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAhwYBh0AAZub3RpZnlzcQB+AAwOln7vdAAEd2FpdHNxAH4ADJBkasl0AARzaG93c3EAfgAM1T8ijHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM37Z6zHQADSRhc0luc3RhbmNlT2ZzcQB+AAybzE3ydAABbnNxAH4ADNf02px0AAJlMXNxAH4ADEx9OW10AAxwcm9kdWN0QXJpdHlzcQB+AAytec8kdAAGZXF1YWxzc3EAfgAMCpeManQABk51bWJlcnNxAH4ADL/WIVh0AAxhc0luc3RhbmNlT2ZzcQB+AAznfy1edAAERXhwcnNxAH4ADPqYGwl0AAxzeW5jaHJvbml6ZWRzcQB+AAy9MqPPdAANJGlzSW5zdGFuY2VPZnNxAH4ADPXtho90AAhjYW5FcXVhbHNxAH4ADCj4jQd0AARtYWluc3EAfgAMY+/CP3QADXByb2R1Y3RQcmVmaXhzcQB+AAxqt+pzdAAJbm90aWZ5QWxsc3EAfgAMJzBxJHQADGlzSW5zdGFuY2VPZnNxAH4ADF2zEGB0AANTdW1zcQB+AAw9e2LQdAAGPGluaXQ+c3EAfgAMJ2K6g3QAAj09c3EAfgAMTJ8SzXQABWNsb25lc3EAfgAMuplpCHQABiRpbml0JHNxAH4ADPRW2Wl0AARjb3B5c3EAfgAMUxEMk3QACHRvU3RyaW5nc3EAfgAM0J+Me3QAAiE9c3EAfgAMA7jxLHQACGdldENsYXNzc3EAfgAMHLKgfnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMQ2Y16nQAAmUyc3EAfgAMMTIY0nQAAm5lc3EAfgAM4VTk8XQAAmVxc3EAfgAMznE3UHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADI5pvQp0AAIjI3NxAH4ADOlRCnd0AAhmaW5hbGl6ZXNxAH4ADGtLYOx0AA5wcm9kdWN0RWxlbWVudHNxAH4ADNwYmfl0AAhoYXNoQ29kZXNxAH4ADMZ/t1N0ABhFeHByZXNzaW9uUGF0ZXJuTWF0Y2hpbmdzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AFl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgB/c3EAfgB6dXEAfgBeAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBkcQB+AG11cQB+AG4AAAAAc3EAfgBwAHEAfgAtdXEAfgByAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB+c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCadXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ah3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AdXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AjlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfnNxAH4AjXQABUFycmF5cQB+AJN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AjXQABlN0cmluZ3NxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJl0AARqYXZhc3EAfgCZdAAEbGFuZ3EAfgCec3EAfgB6dXEAfgBeAAAAAHNxAH4AenVxAH4AsgAAAAJzcQB+AI10AAZPYmplY3RxAH4AtnNxAH4AjXQAA0FueXEAfgCTc3EAfgBgcQB+AG11cQB+AG4AAAAAc3EAfgBwAXEAfgAldXEAfgByAAAAAH5xAH4AdHQABVRyYWl0dXEAfgB4AAAAAHNxAH4AenEAfgCAc3EAfgB6c3EAfgCCc3EAfgB6dXEAfgBeAAAAAHNxAH4AenVxAH4AXgAAAABzcQB+AHp1cQB+ALIAAAACc3EAfgCNcQB+AMJzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3EAfgCZcQB+ALpzcQB+AJlxAH4AvHEAfgCec3EAfgCNcQB+AMRzcQB+AJFzcQB+AJR1cQB+AJcAAAACc3EAfgCZcQB+AJxxAH4AnnNxAH4AYHEAfgBtdXEAfgBuAAAAAHNxAH4AcABxAH4AIXVxAH4AcgAAAAB+cQB+AHR0AAhDbGFzc0RlZnVxAH4AeAAAAABzcQB+AHpxAH4AgHNxAH4AenNxAH4AgnNxAH4AenVxAH4AXgAAAABzcQB+AHp1cQB+AF4AAAAAc3EAfgB6dXEAfgCyAAAAB3NxAH4AjXQADFNlcmlhbGl6YWJsZXNxAH4AkXNxAH4AlHVxAH4AlwAAAAJzcQB+AJlxAH4AnHEAfgCec3EAfgCNcQB+APFzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3EAfgCZcQB+ALpzcQB+AJl0AAJpb3EAfgCec3EAfgCNdAAHUHJvZHVjdHEAfgDyc3EAfgCNdAAGRXF1YWxzcQB+APJzcQB+AI1xAH4AJXNxAH4AkXNxAH4AlHVxAH4AlwAAAAFxAH4AnnNxAH4AjXEAfgDCc3EAfgCRc3EAfgCUdXEAfgCXAAAAA3NxAH4AmXEAfgC6c3EAfgCZcQB+ALxxAH4AnnNxAH4AjXEAfgDEcQB+APJzcQB+AGBxAH4AbXVxAH4AbgAAAABzcQB+AHAAcQB+ADV1cQB+AHIAAAAAcQB+AOR1cQB+AHgAAAAAc3EAfgB6cQB+AIBzcQB+AHpzcQB+AIJzcQB+AHp1cQB+AF4AAAAAc3EAfgB6dXEAfgBeAAAAAHNxAH4AenVxAH4AsgAAAAdzcQB+AI1xAH4A8XNxAH4AkXNxAH4AlHVxAH4AlwAAAAJzcQB+AJlxAH4AnHEAfgCec3EAfgCNcQB+APFzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3EAfgCZcQB+ALpzcQB+AJl0AAJpb3EAfgCec3EAfgCNcQB+AP5xAH4BG3NxAH4AjXQABkVxdWFsc3EAfgEbc3EAfgCNcQB+ACVzcQB+AJFzcQB+AJR1cQB+AJcAAAABcQB+AJ5zcQB+AI1xAH4AwnNxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJlxAH4AunNxAH4AmXEAfgC8cQB+AJ5zcQB+AI1xAH4AxHEAfgEbdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVR5HodYdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAeS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvcGF0dGVybk1hdGNoaW5nL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQZU7u+/S4QeJcuZdO9S1YvBZ/crQ==
+external apis:
+0 items
+source infos:
+1 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/patternMatching/ExpressionPaternMatching.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHkZdqh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvcGF0dGVybk1hdGNoaW5nL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHkeh1h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvcGF0dGVybk1hdGNoaW5nL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv

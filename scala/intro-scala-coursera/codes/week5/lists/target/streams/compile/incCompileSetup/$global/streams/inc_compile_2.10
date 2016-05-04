@@ -1,0 +1,118 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/target/scala-2.10/classes/ListPatternMatching$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/target/scala-2.10/classes/ListPatternMatching.class
+binary dependencies:
+2 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> /home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> ListPatternMatching
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> ListPatternMatching$
+used names:
+35 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> !=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> &&
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> +
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> ::
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> <=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> <init>
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> ==
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> AnyRef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> Array
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> Int
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> List
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> ListPatternMatching
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> Nil
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> Predef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> String
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> Unit
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> apply
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> asInstanceOf
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> get
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> immutable
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> insert
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> isEmpty
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> isInstanceOf
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> isort
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> lengthCompare
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> list
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> package
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> println
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> scala
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> unapplySeq
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> unary_!
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> x
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> xs
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> y
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> ys
+product stamps:
+2 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/target/scala-2.10/classes/ListPatternMatching$.class -> lastModified(1462324815000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/target/scala-2.10/classes/ListPatternMatching.class -> lastModified(1462324815000)
+source stamps:
+1 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> hash(8949c61dc33d8d0a0c97409a7630c3c23f2ac360)
+binary stamps:
+2 items
+/home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> lastModified(1454329517000)
+class names:
+2 items
+/home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.collection.immutable.List
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCvLe79AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCp+/R90AAZub3RpZnlzcQB+AAwWZw5WdAAEd2FpdHNxAH4ADAPtcZ90AA0kYXNJbnN0YW5jZU9mc3EAfgAMr5jziXQABmluc2VydHNxAH4ADHUdL1x0AAZlcXVhbHNzcQB+AAy+e+XJdAAFaXNvcnRzcQB+AAxx4k1JdAAMYXNJbnN0YW5jZU9mc3EAfgAMzcUCHnQADHN5bmNocm9uaXplZHNxAH4ADFiKq090AA0kaXNJbnN0YW5jZU9mc3EAfgAMABSD9XQABG1haW5zcQB+AAz/m+hmdAAJbm90aWZ5QWxsc3EAfgAMEl8ABnQADGlzSW5zdGFuY2VPZnNxAH4ADNZuyZ10AAI9PXNxAH4ADIvRlT90AAVjbG9uZXNxAH4ADP0oig10AAh0b1N0cmluZ3NxAH4ADA2TfKd0ABNMaXN0UGF0dGVybk1hdGNoaW5nc3EAfgAM0ztRz3QAAiE9c3EAfgAMgyVX2HQACGdldENsYXNzc3EAfgAMRvtmPnQAAm5lc3EAfgAMMdj3InQAAmVxc3EAfgAMcJ0CVHQAAiMjc3EAfgAMe4er7XQACGZpbmFsaXplc3EAfgAMIDIBg3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBcc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYXNxAH4AXHVxAH4AQAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARnEAfgBPdXEAfgBQAAAAAHNxAH4AUgBxAH4AIXVxAH4AVAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFd0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGBzcQB+AG90AAVBcnJheXEAfgB1dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG90AAZTdHJpbmdzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7dAAEamF2YXNxAH4Ae3QABGxhbmdxAH4AgHNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cQB+AJQAAAACc3EAfgBvdAAGT2JqZWN0cQB+AJhzcQB+AG90AANBbnlxAH4AdXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUeVnZmXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AG8vaG9tZS9mc291dG8vU3R1ZHkvQ29sbGVnZS90Y2MvdGNjLXN0dWR5L3NjYWxhL2ludHJvLXNjYWxhLWNvdXJzZXJhL2NvZGVzL3dlZWs0L2xpc3RzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSJScYdwz2NCgyXQJp2MMPCPyrDYA==
+external apis:
+0 items
+source infos:
+1 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week4/lists/ListPatternMatching.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHlL2Kh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAby9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvbGlzdHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHlNH4N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAby9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvbGlzdHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHlSac91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAby9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvbGlzdHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHlZG7V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAby9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvbGlzdHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHlZhDF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAby9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvbGlzdHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHlZ2Zl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAby9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazQvbGlzdHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=

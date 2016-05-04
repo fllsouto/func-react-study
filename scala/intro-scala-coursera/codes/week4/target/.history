@@ -1,0 +1,6 @@
+exit
+run
+exit
+run helloSbt
+exit
+run helloSbt2
