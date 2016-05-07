@@ -1,0 +1,473 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+38 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap$$anonfun$isPrime$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap$$anonfun$showCombinations$1$$anonfun$apply$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap$$anonfun$showCombinations$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$$anonfun$isPrime$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$$anonfun$primeCombinator$1$$anonfun$apply$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$$anonfun$primeCombinator$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$$anonfun$primeCombinator$2.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$1$$anonfun$apply$3.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$isSafe$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$nquens$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$placeQueens$1$1$$anonfun$apply$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$placeQueens$1$1$$anonfun$apply$2.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$placeQueens$1$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$Poly$$anonfun$$plus$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$Poly$$anonfun$toString$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$Poly$$anonfun$toString$2.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$Poly.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$1$$anonfun$apply$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$2.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$3$$anonfun$apply$2.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$3.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$4.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$5$$anonfun$apply$3$$anonfun$apply$4.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$5$$anonfun$apply$3.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$5.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$translate$1$1.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$.class
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser.class
+binary dependencies:
+10 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> /home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> /home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> /home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+38 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> CombinatorFlatMap
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> CombinatorFlatMap$
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> CombinatorFlatMap$$anonfun$isPrime$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> CombinatorFlatMap$$anonfun$showCombinations$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> CombinatorFlatMap$$anonfun$showCombinations$1$$anonfun$apply$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> CombinatorialSearchPrime
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> CombinatorialSearchPrime$
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> CombinatorialSearchPrime$$anonfun$isPrime$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> CombinatorialSearchPrime$$anonfun$primeCombinator$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> CombinatorialSearchPrime$$anonfun$primeCombinator$1$$anonfun$apply$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> CombinatorialSearchPrime$$anonfun$primeCombinator$2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem$
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem$$anonfun$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem$$anonfun$1$$anonfun$apply$3
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem$$anonfun$isSafe$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem$$anonfun$nquens$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem$$anonfun$placeQueens$1$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem$$anonfun$placeQueens$1$1$$anonfun$apply$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem$$anonfun$placeQueens$1$1$$anonfun$apply$2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Polinomials
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Polinomials$
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Polinomials$Poly
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Polinomials$Poly$$anonfun$$plus$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Polinomials$Poly$$anonfun$toString$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Polinomials$Poly$$anonfun$toString$2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$1$$anonfun$apply$1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$3
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$3$$anonfun$apply$2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$4
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$5
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$5$$anonfun$apply$3
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$5$$anonfun$apply$3$$anonfun$apply$4
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser$$anonfun$translate$1$1
+used names:
+244 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> !=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> %
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> +
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> <init>
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> AnyRef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> Array
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> Boolean
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> CombinatorFlatMap
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> IndexedSeq
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> Int
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> Predef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> String
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> Tuple2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> Unit
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> canBuildFrom
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> flatMap
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> forall
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> immutable
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> intWrapper
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> m
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> map
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> n
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> package
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> println
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> scala
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> showCombinations
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> to
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> until
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> x
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> y
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> !=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> %
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> +
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> <init>
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> AnyRef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> Array
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> Boolean
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> CombinatorialSearchPrime
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> IndexedSeq
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> Int
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> Predef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> String
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> Tuple2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> Unit
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> _1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> _2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> canBuildFrom
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> filter
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> flatMap
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> forall
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> i
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> immutable
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> intWrapper
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> isPrime
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> j
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> map
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> n
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> package
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> pair
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> primeCombinator
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> println
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> scala
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> until
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> x
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> !=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> &&
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> +
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> -
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> ::
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> <init>
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> ==
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> AnyRef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> Array
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> Boolean
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> IndexedSeq
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> Int
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> List
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> NQueensProblem
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> Nil
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> Predef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> Set
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> String
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> Unit
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> Vector
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> _1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> _2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> abs
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> apply
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> by
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> c
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> canBuildFrom
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> col
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> fill
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> flatMap
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> forall
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> immutable
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> intWrapper
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> isSafe
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> k
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> length
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> lines
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> map
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> math
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> mkString
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> n
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> ne
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> nquens
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> package
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> placeQueens
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> println
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> queens
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> queensWithRow
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> r
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> reverse
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> row
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> scala
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> show
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> to
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> until
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> updated
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> withFilter
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> zip
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> +
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> ++
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> ->
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> <init>
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> <repeated>
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> AnyRef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Array
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Double
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Int
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> List
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Map
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Ordering
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Polinomials
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Poly
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Predef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> String
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Tuple2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> Unit
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> _1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> _2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> _root_
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> adjust
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> any2ArrowAssoc
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> apply
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> bindings
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> canBuildFrom
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> coeff
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> conforms
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> exp
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> immutable
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> map
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> math
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> mkString
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> ne
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> other
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> p1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> p2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> println
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> reverse
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> scala
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> sorted
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> term
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> terms
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> terms0
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> toList
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> toMap
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> unchecked
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> withDefaultValue
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> withFilter
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> +
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> ->
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> ::
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> <init>
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> AnyRef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Array
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Char
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Codec
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> IndexedSeq
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> List
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Map
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Nil
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Predef
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Seq
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Set
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Source
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> String
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> StringCanBuildFrom
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> TelephoneMnemonicParser
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> Unit
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> _1
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> _2
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> any2ArrowAssoc
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> apply
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> augmentString
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> canBuildFrom
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> charCode
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> charWrapper
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> chr
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> collection
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> digit
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> drop
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> encode
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> encoded
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> fallbackStringCanBuildFrom
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> fallbackSystemCodec
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> filter
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> flatMap
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> forall
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> fromURL
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> getLines
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> groupBy
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> immutable
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> in
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> intWrapper
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> io
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> isEmpty
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> isLetter
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> length
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> ltr
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> map
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> mkString
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> mnem
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> ne
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> number
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> package
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> println
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> rest
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> scala
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> split
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> str
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> take
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> to
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> toList
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> toSet
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> toUpperCase
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> unchecked
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> withDefaultValue
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> withFilter
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> word
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> wordCode
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> words
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> wordsForNum
+product stamps:
+38 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap$$anonfun$isPrime$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap$$anonfun$showCombinations$1$$anonfun$apply$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap$$anonfun$showCombinations$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap$.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorFlatMap.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$$anonfun$isPrime$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$$anonfun$primeCombinator$1$$anonfun$apply$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$$anonfun$primeCombinator$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$$anonfun$primeCombinator$2.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime$.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/CombinatorialSearchPrime.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$1$$anonfun$apply$3.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$isSafe$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$nquens$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$placeQueens$1$1$$anonfun$apply$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$placeQueens$1$1$$anonfun$apply$2.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$$anonfun$placeQueens$1$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem$.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/NQueensProblem.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$Poly$$anonfun$$plus$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$Poly$$anonfun$toString$1.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$Poly$$anonfun$toString$2.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials$Poly.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/Polinomials.class -> lastModified(1462642954000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$1$$anonfun$apply$1.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$1.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$2.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$3$$anonfun$apply$2.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$3.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$4.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$5$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$5$$anonfun$apply$3.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$5.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$$anonfun$translate$1$1.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser$.class -> lastModified(1462648644000)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/target/scala-2.10/classes/TelephoneMnemonicParser.class -> lastModified(1462648644000)
+source stamps:
+5 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> hash(6e2a44bdfdeb483eb878a86219c26e4529d276bf)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> hash(c1f40d61056a7ac17fd3ce251810195936da50fd)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> hash(03da9669a08260d2a7d09f52764095dbca44aa39)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> hash(855bd252852564f0f380382bb80276074fd740c0)
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> hash(deb28bbdbd4959bb062a10ebd333fc74ebae8f20)
+binary stamps:
+2 items
+/home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> lastModified(1454329517000)
+class names:
+2 items
+/home/fsouto/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.collection.immutable.Set$
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+5 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBJ+EsiAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ9A4ot0AAZub3RpZnlzcQB+AAxNpDGVdAAEd2FpdHNxAH4ADMZ/w1x0AA0kYXNJbnN0YW5jZU9mc3EAfgAM6OzK23QABmVxdWFsc3NxAH4ADGRYwgF0AAxhc0luc3RhbmNlT2ZzcQB+AAwCvE24dAAMc3luY2hyb25pemVkc3EAfgAMzknX5HQADSRpc0luc3RhbmNlT2ZzcQB+AAzb5sT7dAAEbWFpbnNxAH4ADOJZHzd0AAlub3RpZnlBbGxzcQB+AAys+IjYdAAMaXNJbnN0YW5jZU9mc3EAfgAMVp66EXQAAj09c3EAfgAMh+/82XQAB2lzUHJpbWVzcQB+AAzPL4uddAAFY2xvbmVzcQB+AAytG6IidAAQc2hvd0NvbWJpbmF0aW9uc3NxAH4ADEySdbx0AAh0b1N0cmluZ3NxAH4ADALW+R90AAIhPXNxAH4ADAzP4zt0AAhnZXRDbGFzc3NxAH4ADCchKDB0AAJuZXNxAH4ADO/ow9x0ABFDb21iaW5hdG9yRmxhdE1hcHNxAH4ADAIvpOx0AAJlcXNxAH4ADL6PnZJ0AAIjI3NxAH4ADBbZjhN0AAhmaW5hbGl6ZXNxAH4ADFSTeUJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AM3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGFzcQB+AFx1cQB+AEAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEZxAH4AT3VxAH4AUAAAAABzcQB+AFIAcQB+AB11cQB+AFQAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHx1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBpeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBXdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBwWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBvdAAFQXJyYXlxAH4AdXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBvdAAGU3RyaW5nc3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3QABGphdmFzcQB+AHt0AARsYW5ncQB+AIBzcQB+AFx1cQB+AEAAAAAAc3EAfgBcdXEAfgCUAAAAAnNxAH4Ab3QABk9iamVjdHEAfgCYc3EAfgBvdAADQW55cQB+AHV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVIxQNt51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABpL2hvbWUvZnNvdXRvL1N0dWR5L0NvbGxlZ2UvdGNjL3RjYy1zdHVkeS9zY2FsYS9pbnRyby1zY2FsYS1jb3Vyc2VyYS9jb2Rlcy93ZWVrNi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUbipEvf3rSD64eKhiGcJuRSnSdr8=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDdRbwmAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIxKE4x0AAZub3RpZnlzcQB+AAyfPGtWdAAEd2FpdHNxAH4ADJ6vsZx0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1/Au8nQAGENvbWJpbmF0b3JpYWxTZWFyY2hQcmltZXNxAH4ADIvxCyJ0AAZlcXVhbHNzcQB+AAz2cRQJdAAMYXNJbnN0YW5jZU9mc3EAfgAMqWPGuXQADHN5bmNocm9uaXplZHNxAH4ADDchfkF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMdhspe3QAD3ByaW1lQ29tYmluYXRvcnNxAH4ADNvRril0AARtYWluc3EAfgAMehUh5nQACW5vdGlmeUFsbHNxAH4ADAFpVwh0AAxpc0luc3RhbmNlT2ZzcQB+AAxO/dxsdAACPT1zcQB+AAzhcOP/dAAHaXNQcmltZXNxAH4ADPFQXe50AAVjbG9uZXNxAH4ADKp9cEN0AAh0b1N0cmluZ3NxAH4ADHhJ9eh0AAIhPXNxAH4ADDJMonh0AAhnZXRDbGFzc3NxAH4ADK9sJCB0AAJuZXNxAH4ADPG9Czt0AAJlcXNxAH4ADEA2Y1Z0AAIjI3NxAH4ADHwZ1AJ0AAhmaW5hbGl6ZXNxAH4ADJ7Gwut0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AFXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGFzcQB+AFx1cQB+AEAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEZxAH4AT3VxAH4AUAAAAABzcQB+AFIAcQB+ACF1cQB+AFQAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHx1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBpeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBXdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBwWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBvdAAFQXJyYXlxAH4AdXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBvdAAGU3RyaW5nc3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3QABGphdmFzcQB+AHt0AARsYW5ncQB+AIBzcQB+AFx1cQB+AEAAAAAAc3EAfgBcdXEAfgCUAAAAAnNxAH4Ab3QABk9iamVjdHEAfgCYc3EAfgBvdAADQW55cQB+AHV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVIxQNt51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABpL2hvbWUvZnNvdXRvL1N0dWR5L0NvbGxlZ2UvdGNjL3RjYy1zdHVkeS9zY2FsYS9pbnRyby1zY2FsYS1jb3Vyc2VyYS9jb2Rlcy93ZWVrNi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUwfQNYQVqesF/084lGBAZWTbaUP0=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCEHG0gAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNrc8JN0AAZub3RpZnlzcQB+AAzimjVWdAAEd2FpdHNxAH4ADO7Ovpd0AARzaG93c3EAfgAMCBd1/HQADSRhc0luc3RhbmNlT2ZzcQB+AAykYSOSdAAGZXF1YWxzc3EAfgAM761LV3QABmlzU2FmZXNxAH4ADJ4so9l0AA5OUXVlZW5zUHJvYmxlbXNxAH4ADO8RdoR0AAxhc0luc3RhbmNlT2ZzcQB+AAwfM76+dAAGbnF1ZW5zc3EAfgAMbKIBKnQADHN5bmNocm9uaXplZHNxAH4ADOMHn5F0AA0kaXNJbnN0YW5jZU9mc3EAfgAMJEGhTHQABG1haW5zcQB+AAxhTlUAdAAJbm90aWZ5QWxsc3EAfgAMX4YhmHQADGlzSW5zdGFuY2VPZnNxAH4ADGZaSyN0AAZxdWVlbnNzcQB+AAwCtlkadAACPT1zcQB+AAwXhpA9dAAFY2xvbmVzcQB+AAw8uljNdAAIdG9TdHJpbmdzcQB+AAyKNyJ/dAACIT1zcQB+AAzViLh7dAAIZ2V0Q2xhc3NzcQB+AAxdl18vdAACbmVzcQB+AAwjhDWydAACZXFzcQB+AAxZlc/RdAACIyNzcQB+AAyPiI3pdAAIZmluYWxpemVzcQB+AAy2/x3RdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBlc3EAfgBgdXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHEAfgAldXEAfgBYAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCAdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AW3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AdFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZHNxAH4Ac3QABUFycmF5cQB+AHl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ac3QABlN0cmluZ3NxAH4Ad3NxAH4AenVxAH4AfQAAAANzcQB+AH90AARqYXZhc3EAfgB/dAAEbGFuZ3EAfgCEc3EAfgBgdXEAfgBEAAAAAHNxAH4AYHVxAH4AmAAAAAJzcQB+AHN0AAZPYmplY3RxAH4AnHNxAH4Ac3QAA0FueXEAfgB5dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVSMUDbedXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAPalmmggmDSp9CfUnZAldvKRKo5
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDPusEfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPD5aVt0AAZub3RpZnlzcQB+AAwh5oySdAAEd2FpdHNxAH4ADNUvFY10AA0kYXNJbnN0YW5jZU9mc3EAfgAMDfXvsnQABmVxdWFsc3NxAH4ADAtvWv10AAxhc0luc3RhbmNlT2ZzcQB+AAxBhIHtdAAMc3luY2hyb25pemVkc3EAfgAMfHadT3QADSRpc0luc3RhbmNlT2ZzcQB+AAxEwA3AdAAEUG9seXNxAH4ADL6iIKt0AARtYWluc3EAfgAMmEemfnQACW5vdGlmeUFsbHNxAH4ADAhbxrx0AAxpc0luc3RhbmNlT2ZzcQB+AAyhKQAIdAAGYWRqdXN0c3EAfgAMDQrZeXQAC1BvbGlub21pYWxzc3EAfgAMBY8iEXQABjxpbml0PnNxAH4ADELtlJl0AAI9PXNxAH4ADKfgEMt0AAVjbG9uZXNxAH4ADCK92wF0AAh0b1N0cmluZ3NxAH4ADNBOngt0AAErc3EAfgAMqK0sunQAAiE9c3EAfgAMuz7NpHQACGdldENsYXNzc3EAfgAMtVKKOnQABXRlcm1zc3EAfgAMrpzOg3QAAm5lc3EAfgAMWp+kdHQAAmVxc3EAfgAMHiHHhnQAAiMjc3EAfgAMS+5hvnQACGZpbmFsaXplc3EAfgAMFzK3nXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBic3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AZ3NxAH4AYnVxAH4ARgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ATHEAfgBVdXEAfgBWAAAAAHNxAH4AWABxAH4AH3VxAH4AWgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBmdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AG94cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF10AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHZbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGZzcQB+AHV0AAVBcnJheXEAfgB7dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHV0AAZTdHJpbmdzcQB+AHlzcQB+AHx1cQB+AH8AAAADc3EAfgCBdAAEamF2YXNxAH4AgXQABGxhbmdxAH4AhnNxAH4AYnVxAH4ARgAAAABzcQB+AGJ1cQB+AJoAAAACc3EAfgB1dAAGT2JqZWN0cQB+AJ5zcQB+AHV0AANBbnlxAH4Ae3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUjFA23nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGkvaG9tZS9mc291dG8vU3R1ZHkvQ29sbGVnZS90Y2MvdGNjLXN0dWR5L3NjYWxhL2ludHJvLXNjYWxhLWNvdXJzZXJhL2NvZGVzL3dlZWs2L3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSFW9JShSVk8POAOCu4AnYHT9dAwA==
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAlxS5jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCyNguF0AAZub3RpZnlzcQB+AAxnSWkwdAAEd2FpdHNxAH4ADCE3BeJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMKPcY+nQABmVxdWFsc3NxAH4ADFIGVSt0AAxhc0luc3RhbmNlT2ZzcQB+AAyDQS+UdAAMc3luY2hyb25pemVkc3EAfgAMnuK8PnQADSRpc0luc3RhbmNlT2ZzcQB+AAx9BHbddAAEbWFpbnNxAH4ADLeENjp0ABdUZWxlcGhvbmVNbmVtb25pY1BhcnNlcnNxAH4ADF8Jvap0AAlub3RpZnlBbGxzcQB+AAwyrxfddAAMaXNJbnN0YW5jZU9mc3EAfgAMG2+QkXQAAj09c3EAfgAMpIxswXQABWNsb25lc3EAfgAMFv1mlHQACHRvU3RyaW5nc3EAfgAM9kNR7nQAAiE9c3EAfgAMw0DnkXQACGdldENsYXNzc3EAfgAMCZ7aM3QAAm5lc3EAfgAM7gwNaXQAAmVxc3EAfgAM9bvjfnQAAiMjc3EAfgAMmgtc73QACGZpbmFsaXplc3EAfgAMd8iggHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAfdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUjKcT43VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGkvaG9tZS9mc291dG8vU3R1ZHkvQ29sbGVnZS90Y2MvdGNjLXN0dWR5L3NjYWxhL2ludHJvLXNjYWxhLWNvdXJzZXJhL2NvZGVzL3dlZWs2L3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTesou9vUlZuwYqEOvTM/x0666PIA==
+external apis:
+0 items
+source infos:
+5 items
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorFlatMap.scala -> 
+AAAAAAAAAAA=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/CombinatorialSearchPrime.scala -> 
+AAAAAAAAAAA=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/NQueensProblem.scala -> 
+AAAAAAAAAAA=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/Polinomials.scala -> 
+AAAAAAAAAAA=
+/home/fsouto/Study/College/tcc/tcc-study/scala/intro-scala-coursera/codes/week6/TelephoneMnemonicParser.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH1DUEl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH1EjXJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH1bYMp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH1mkeZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH2ykcV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH24+i11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH27EhR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH27wrZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH37OlF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVH372gV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVIxQNt51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVIxrba91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVIx4QlR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVIyM/2R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVIyPo0d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVIynE+N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaS9ob21lL2Zzb3V0by9TdHVkeS9Db2xsZWdlL3RjYy90Y2Mtc3R1ZHkvc2NhbGEvaW50cm8tc2NhbGEtY291cnNlcmEvY29kZXMvd2VlazYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
