@@ -1,7 +1,33 @@
 # Introdução a Programação Funcional com Scala - Week 1
 
-### Paradigma de programação
-Em ciência um paradigma descreve conceitos distintos ou padrões de pensamento em alguma disciplína científica.
+## Paradigmas na computação
+*Paradigma, no campo da ciência, descreve conceitos distintos ou padrões de pensamento em alguma disciplina científica.* 
+
+Existem atualmente três paradigmas principais na ciência da computação para escrever um programa:
+
+- Imperativo
+- Funcional
+- Lógico
+
+O paradigma de orientação a objeto pode ser encarado de forma ortogonal a esses três pois pode ser combinado com qualquer um dos três padadigmas citados, dependendo da linguagem.
+
+### Programação imperativa
+É o paradigma mais utilizado hoje em dia, e sua criação está presente desde o início do computador, com a criação da arquitetura Von Neumann. Existe uma forte correspondência entre esta arquitetura e o paradigma:
+
+- Variáveis mutaveis <=> Células de memória
+- Dereferência de variável <=> Carregar instruções
+- Atribuição de variável <=> Armazenar instrução
+- Estrutura de controle <=> Saltos
+
+John Backus escreveu na década de 70 um artigo que questionava esse tipo de estrutura. Ele dizia que uma linguagem puramente imperativa era limitada pelo gargalo de sua arquitetura, isso teria que ser vencido com a criação de um alto nível de abstração sobre estruturas como coleções, polonônimos, figuras geométricas, cadeias de caracteres e etc, apoiado na teorização dessas estruturas.
+
+Uma teoria consiste no segunte:
+
+- Um ou mais tipos de dados
+- Operações entre esses tipos de dados
+- Leis que descrevem o relacionamento entre valores e operações
+
+Um coisa que percebemos é que uma teoria normalmente [Não descreve mutações](http://math.stackexchange.com/questions/663578/how-is-a-computer-variable-defined-mathematically)
 
 ### Programando com mutação
 Na matemática formal não temos a ideia de mutação, se algo é definido como tendo um valor este algo não será mutado para que obtenha outro valor. Para implementar conceitos matemáticos teóricos de alto nível não podemos ter mutação por que:
